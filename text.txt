@@ -1,4 +1,4 @@
 
 git init
  Initialized empty Git repository in D:\software\git\gitRepository
- 我做了第一次修改  现在是第二次修改 现在是第3次修改
+ 我做了第一次修改  现在是第二次修改 现在是第3次修改 第四次修改
